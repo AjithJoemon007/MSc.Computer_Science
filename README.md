@@ -15,10 +15,10 @@ This repository is a collection of everything I learn during my M.Sc. program. M
 * C Programming
 * Python Programming
 * Data Structures & Algorithms
-* SQL
 * Data Analytics
 * Statistics
 * Mathematics
+* SQL
 * Computer Networks & Architecture
 * Machine Learning
 * Course Assignments
