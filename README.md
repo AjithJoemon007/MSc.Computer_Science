@@ -4,7 +4,7 @@ Welcome! 👋
 
 I'm **Ajith E Joemon**, currently pursuing an **M.Sc. in Computer Science (Data Analytics)** at **Rajagiri College of Social Sciences, Kochi, Kerala**.
 
-This repository serves as my personal learning repository throughout my postgraduate journey. Here, I document my coursework, programming exercises, practice problems, assignments, experiments, and projects as I continue to build my knowledge in **Computer Science, Data Analytics, and Software Development**.
+This repository serves as my personal learning repository throughout my postgraduate journey. Here, I document my coursework, programming exercises, practice problems, assignments, experiments and projects as I continue to build my knowledge in **Computer Science, Data Analytics and Software Development**.
 
 ## 🎯 Purpose
 
@@ -27,7 +27,7 @@ This repository is a collection of everything I learn during my M.Sc. program. M
 * Notes & Experiments
 
 
-As my coursework progresses, this repository will continue to grow with new topics, projects, and learning resources.
+As my coursework progresses, this repository will continue to grow with new topics, projects and learning resources.
 
 ## 🛠 Technologies
 
