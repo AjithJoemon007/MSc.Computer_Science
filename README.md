@@ -2,7 +2,7 @@
 
 Welcome! 👋
 
-I'm **Ajith E Joemon**, currently pursuing an **M.Sc. in Computer Science (Data Analytics)** at **Rajagiri College of Social Sciences, Kochi, Kerala**.
+I'm **Ajith E Joemon**, currently pursuing **M.Sc. Computer Science (Data Analytics)** at **Rajagiri College of Social Sciences, Kochi, Kerala**.
 
 This repository serves as my personal learning repository throughout my postgraduate journey. Here, I document my coursework, programming exercises, practice problems, assignments, experiments and projects as I continue to build my knowledge in **Computer Science, Data Analytics and Software Development**.
 
