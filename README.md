@@ -8,7 +8,7 @@ This repository serves as my personal learning repository throughout my postgrad
 
 ## 🎯 Purpose
 
-This repository is a collection of everything I learn during my M.Sc. program. My goal is to maintain a structured record of my progress while continuously improving my **programming, analytical, and problem-solving skills**.
+This repository is a collection of everything I learn during my M.Sc. program. My goal is to maintain a structured record of my progress while continuously improving my **programming, analytical and problem-solving skills**.
 
 ## 📚 What You'll Find
 
