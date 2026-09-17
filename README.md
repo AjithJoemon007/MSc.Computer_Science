@@ -39,7 +39,7 @@ As my coursework progresses, this repository will continue to grow with new topi
 * Jupyter Notebook
 * Power BI
 * Pandas
-* NumPy
+* Numpy
 * Scikit-learn
 
 ## 🚀 Repository Structure
