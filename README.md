@@ -27,7 +27,7 @@ This repository is a collection of everything I learn during my M.Sc. program. M
 * Notes & Experiments
 
 
-As my coursework progresses, this repository will continue to grow with new topics, projects and learning resources.
+As my coursework progresses, this repository will continue to grow with new topics, project and learning resources.
 
 ## 🛠 Technologies
 
